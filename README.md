@@ -6,7 +6,7 @@ This repository contains a Python-based invoice generator with an interactive UI
 
 ## Output demo
 
-![Invoice generation demonstration](images/Demo.gif)
+![Invoice generation demonstration](Images/Demo.gif)
 
 ---
 
