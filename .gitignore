@@ -13,5 +13,6 @@ venv/
 env/
 .venv/
 
-# Output files
-# Nothing as of right now
+
+# .Py file that is not ready yet
+Invoice generator github.py
